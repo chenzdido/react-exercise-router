@@ -1,0 +1,22 @@
+.navigation{
+    background-color: #BBBBBB;
+    margin: 0;
+    height: 50px;
+}
+.nav{
+    list-style-type: none;
+    width:400px;
+    float:right;
+}
+.link{
+    text-decoration: none;
+    float:left;
+    padding:0 20px;
+    color:black;
+}
+.link:focus{
+    text-decoration:underline;
+}
+.home,.myprofile,.aboutus{
+    padding-left: 30px;
+}
