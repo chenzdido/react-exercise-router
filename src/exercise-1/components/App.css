@@ -5,13 +5,13 @@
 }
 .nav{
     list-style-type: none;
-    width:400px;
+    width:500px;
     float:right;
 }
 .link{
     text-decoration: none;
     float:left;
-    padding:0 20px;
+    padding-right:30px;
     color:black;
 }
 .link:focus{
@@ -19,4 +19,12 @@
 }
 .home,.myprofile,.aboutus{
     padding-left: 30px;
+}
+.productlinks{
+    list-style-type: none;
+}
+.productlink{
+    text-decoration: none;
+    color:red;
+    
 }
